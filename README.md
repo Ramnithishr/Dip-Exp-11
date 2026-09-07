@@ -30,7 +30,7 @@ print the characters and its huffmancode.
 # expt-11-huffman coding
 
 # Step 1: Get the input string
-input_string = "mani sri latha"  # Example input string
+input_string = "Ramnithish"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
@@ -75,7 +75,8 @@ for char, code in huffman_codes.items():
 ## Output:
 ### Print the characters and its huffmancode
 
-<img width="1082" height="250" alt="image" src="https://github.com/user-attachments/assets/0af0a029-d84d-494f-8ea1-e84281621299" />
+<img width="1078" height="187" alt="image" src="https://github.com/user-attachments/assets/85ccb820-16c8-4d05-b24f-465f2abed2db" />
+
 
 
 
