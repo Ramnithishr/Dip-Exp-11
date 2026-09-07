@@ -1,4 +1,4 @@
-# Exp - 10 - Huffman-Coding
+# Exp - 11 - Huffman-Coding
 # Name : Ramnithish R
 # Reg no : 212224230219
 ## Aim
